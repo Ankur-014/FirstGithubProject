@@ -1,0 +1,18 @@
+This is my Study list
+I have to study
+Java
+Advanced C++
+C
+Python Tamim Shahriar Subeen
+PHP
+HTML
+Javascript
+XML
+Bootstrap
+Arduino
+CSS
+Operating Systems
+Swift iOS
+Cloud Computing 
+Compiler Design
+Computer Architecture William Stalling
